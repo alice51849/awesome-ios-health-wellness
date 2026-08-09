@@ -32,6 +32,7 @@ A curated list of iPhone and iPad apps for everyday health and wellness — **pe
 - [Freedom](https://apps.apple.com/app/id1269788228) - Cross-platform blocker; subscription.
 - [Opal](https://apps.apple.com/app/id1497465230) - Screen-time and focus app; subscription.
 - [one sec](https://apps.apple.com/app/id1532875441) - Adds friction before opening distracting apps; freemium.
+- [SproutGuard](https://apps.apple.com/app/id6768664921?ct=awesome-health-wellness) - Screen-time detox app with on-device blocking, focus rules, and a daily streak. Free to download; premium via subscription. · [disclosure](https://shantj.github.io/sproutguard/): written by its developer.
 - [LockHour Pro](https://apps.apple.com/app/id6780107485) - App blocker and screen-time tool built on Apple's Screen Time API; works on-device, **pay-once**, no subscription. Honest about Hard Mode limits. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lockhour.html)
 
 ## Notes
